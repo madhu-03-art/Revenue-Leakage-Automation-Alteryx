@@ -63,4 +63,12 @@ Risk Classification
     ↓
 Exception Filtering
     ↓
-Automated Reporting
+Automated 
+
+📌How to Run
+
+1.Install Alteryx Designer (Free 30-day trial available at Alteryx website)
+2.Download or clone this repository
+3.Open Revenue_Leakage_V1.yxmd in Alteryx Designer
+4.Ensure input file paths (data/customer.csv, data/transactions.xml) are correctly linked
+5.Click Run or press Ctrl + R to execute the workflow
